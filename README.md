@@ -8,6 +8,7 @@
     </div>
   </div>
 </header>
+
 ---
 
 ### About me 👨‍💻
@@ -29,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="git" width="50" height="50"/>&nbsp;
 </div>
 
-<div id="languages-stats" style="margin-top: 40px;">
+<div id="languages-stats" style="margin-top: 50px;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F13b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
